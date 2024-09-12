@@ -1,5 +1,3 @@
-# Larion: One Continent
-
 This is a simple add-on for the Larion world generation mod that limits land
 generation to a circle of approximately 3500 blocks in radius. The shape of the
 landmass(es) within this circle vary wildly between seeds. 90% of the time, most
