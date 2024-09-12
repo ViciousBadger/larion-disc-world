@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:add",
+  "argument1": 1.0,
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": -1.0,
+    "argument2": {
+      "type": "more_dfs:sqrt",
+      "argument": {
+        "type": "minecraft:add",
+        "argument1": {
+          "type": "more_dfs:power",
+          "base": {
+            "type": "minecraft:mul",
+            "argument1": {
+              "type": "minecraft:add",
+              "argument1": {
+                "type": "more_dfs:x"
+              },
+              "argument2": 2000
+            },
+            "argument2": 0.00022
+          },
+          "exp": 2.0
+        },
+        "argument2": {
+          "type": "more_dfs:power",
+          "base": {
+            "type": "minecraft:mul",
+            "argument1": {
+              "type": "more_dfs:z"
+            },
+            "argument2": 0.00022
+          },
+          "exp": 2.0
+        }
+      }
+    }
+  }
+}
