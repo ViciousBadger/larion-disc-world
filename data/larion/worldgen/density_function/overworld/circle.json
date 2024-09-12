@@ -19,7 +19,7 @@
               },
               "argument2": 2000
             },
-            "argument2": 0.00022
+            "argument2": 0.00025
           },
           "exp": 2.0
         },
@@ -30,7 +30,7 @@
             "argument1": {
               "type": "more_dfs:z"
             },
-            "argument2": 0.00022
+            "argument2": 0.00025
           },
           "exp": 2.0
         }
