@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:clamp",
+  "input": {
+    "type": "minecraft:mul",
+    "argument1": {
+      "type": "more_dfs:z"
+    },
+    "argument2": 0.0007853981634
+  },
+  "min": -1.57,
+  "max": 1.57
+}
