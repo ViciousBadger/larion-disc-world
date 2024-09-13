@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "larion-one-continent",
+  "id": "larion-disc-world",
   "version": "1.2.0",
-  "name": "Larion: One Continent",
-  "description": "Larion add-on for a single-continent world",
+  "name": "Larion: Disc World",
+  "description": "Larion add-on to generate worlds with limited size",
   "authors": [
     "Badgerson"
   ],
@@ -33,7 +33,7 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.source": "https://github.com/ViciousBadger/larion-terrain-generation"
+        "modmenu.source": "https://github.com/ViciousBadger/larion-disc-world"
       }
     }
   }
