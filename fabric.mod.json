@@ -8,7 +8,7 @@
     "Badgerson"
   ],
   "contact": {
-    "homepage": "https://github.com/ViciousBadger/larion-terrain-generation"
+    "homepage": "https://github.com/ViciousBadger/larion-disc-world"
   },
   "license": "Apache-2.0",
   "icon": "pack.png",
@@ -21,8 +21,7 @@
       "1.20.x",
       "1.21.x"
     ],
-    "larion": ">=3.1.0",
-    "more_density_functions": "=1.0.5"
+    "larion": ">=3.3.0"
   },
   "suggests": {
     "c2me": "*",
