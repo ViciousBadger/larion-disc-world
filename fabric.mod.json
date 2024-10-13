@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "larion-disc-world",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "name": "Larion: Disc World",
   "description": "Larion add-on to generate worlds with limited size",
   "authors": [
