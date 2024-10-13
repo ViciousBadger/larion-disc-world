@@ -15,11 +15,7 @@
             "argument1": {
               "type": "minecraft:add",
               "argument1": {
-                "type": "minecraft:add",
-                "argument1": {
-                  "type": "larion:x"
-                },
-                "argument2": 2000
+                "type": "larion:x"
               },
               "argument2": {
                 "type": "minecraft:mul",
