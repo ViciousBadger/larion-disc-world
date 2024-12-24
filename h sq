@@ -1,0 +1,63 @@
+[1mdiff --git a/data/larion/worldgen/density_function/overworld/circle.json b/data/larion/worldgen/density_function/overworld/circle.json[m
+[1mindex b0fb40a..3ee1e9b 100644[m
+[1m--- a/data/larion/worldgen/density_function/overworld/circle.json[m
+[1m+++ b/data/larion/worldgen/density_function/overworld/circle.json[m
+[36m@@ -28,7 +28,7 @@[m
+                 }[m
+               }[m
+             },[m
+[31m-            "argument2": 0.000125[m
+[32m+[m[32m            "argument2": 0.0001666[m
+           }[m
+         },[m
+         "argument2": {[m
+[36m@@ -51,10 +51,10 @@[m
+                 }[m
+               }[m
+             },[m
+[31m-            "argument2": 0.000125[m
+[32m+[m[32m            "argument2": 0.0001666[m
+           }[m
+         }[m
+       }[m
+     }[m
+   }[m
+[31m-}[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/data/larion/worldgen/density_function/overworld/temperature_delta.json b/data/larion/worldgen/density_function/overworld/temperature_delta.json[m
+[1mindex 4498c84..dba61e7 100644[m
+[1m--- a/data/larion/worldgen/density_function/overworld/temperature_delta.json[m
+[1m+++ b/data/larion/worldgen/density_function/overworld/temperature_delta.json[m
+[36m@@ -5,8 +5,8 @@[m
+     "argument1": {[m
+       "type": "larion:z"[m
+     },[m
+[31m-    "argument2": 0.00025[m
+[32m+[m[32m    "argument2": 0.0003925[m
+   },[m
+   "min": -1.57,[m
+   "max": 1.57[m
+[31m-}[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/data/minecraft/worldgen/density_function/overworld/continents.json b/data/minecraft/worldgen/density_function/overworld/continents.json[m
+[1mindex 230b083..63f8091 100644[m
+[1m--- a/data/minecraft/worldgen/density_function/overworld/continents.json[m
+[1m+++ b/data/minecraft/worldgen/density_function/overworld/continents.json[m
+[36m@@ -13,7 +13,7 @@[m
+             "value": -0.9[m
+           },[m
+           {[m
+[31m-            "location": 0.15,[m
+[32m+[m[32m            "location": 0.25,[m
+             "derivative": 0.0,[m
+             "value": {[m
+               "coordinate": "larion:overworld/continents",[m
+[36m@@ -35,4 +35,4 @@[m
+       }[m
+     }[m
+   }[m
+[31m-}[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
