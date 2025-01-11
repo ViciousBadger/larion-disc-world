@@ -13,7 +13,7 @@
             "value": -0.9
           },
           {
-            "location": 0.25,
+            "location": 0.12,
             "derivative": 0.0,
             "value": {
               "coordinate": "larion:overworld/continents",
