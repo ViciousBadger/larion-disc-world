@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "larion-disc-world",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "name": "Larion: Disc World",
   "description": "Larion add-on to generate worlds with limited size",
   "authors": [
@@ -17,9 +17,9 @@
     "fabric-api": "*",
     "fabricloader": ">=0.12.0",
     "minecraft": [
-      "~1.21.1"
+      ">=1.20"
     ],
-    "larion": ">=3.3.0"
+    "larion": ">=4.0.0"
   },
   "suggests": {
     "c2me": "*",
