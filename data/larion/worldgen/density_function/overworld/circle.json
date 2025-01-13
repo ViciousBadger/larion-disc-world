@@ -19,11 +19,11 @@
               },
               "argument2": {
                 "type": "minecraft:mul",
-                "argument1": 1200,
+                "argument1": 600,
                 "argument2": {
                   "type": "minecraft:noise",
                   "noise": "larion:circle_x",
-                  "xz_scale": 0.25,
+                  "xz_scale": 0.35,
                   "y_scale": 0.0
                 }
               }
@@ -42,11 +42,11 @@
               },
               "argument2": {
                 "type": "minecraft:mul",
-                "argument1": 1200,
+                "argument1": 600,
                 "argument2": {
                   "type": "minecraft:noise",
                   "noise": "larion:circle_z",
-                  "xz_scale": 0.25,
+                  "xz_scale": 0.35,
                   "y_scale": 0.0
                 }
               }

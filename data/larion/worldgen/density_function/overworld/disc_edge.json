@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": "larion:overworld/circle",
+    "points": [
+      {
+        "location": -0.05,
+        "derivative": 0.0,
+        "value": -0.85
+      },
+      {
+        "location": 0.05,
+        "derivative": 4.0,
+        "value": -0.4
+      },
+      {
+        "location": 0.07,
+        "derivative": 1.5,
+        "value": -0.18
+      },
+      {
+        "location": 0.15,
+        "derivative": 0.90,
+        "value": 0.10
+      },
+      {
+        "location": 0.25,
+        "derivative": 0.75,
+        "value": 1.0
+      }
+    ]
+  }
+}
